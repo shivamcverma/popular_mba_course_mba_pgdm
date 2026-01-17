@@ -3085,7 +3085,7 @@
           },
           {
             "question": "How do I apply for a college which requires CUET percentage even though am yet to give CUET?",
-            "answer": "Candidates can apply for CUET score accepting colleges through CUET UG 2025 application form. While filling the application form, candidates will be required to enter the name of the preffered universities and courses in order of preference. On declaration of the CUET results, the scores will be shared with the universities for which candidate has applied. Basis on the score obtained candidate will be shortlisted for the applied course."
+            "answer": "Candidates can apply for CUET score accepting colleges through CUET UG 2026 application form. While filling the application form, candidates will be required to enter the name of the preffered universities and courses in order of preference. On declaration of the CUET results, the scores will be shared with the universities for which candidate has applied. Basis on the score obtained candidate will be shortlisted for the applied course."
           },
           {
             "question": "What if I get compartment, then will I be able to appear for the CUET and get admission in college?",
@@ -4800,7 +4800,7 @@
           },
           {
             "question": "How do I apply for a college which requires CUET percentage even though am yet to give CUET?",
-            "answer": "Candidates can apply for CUET score accepting colleges through CUET UG 2025 application form. While filling the application form, candidates will be required to enter the name of the preffered universities and courses in order of preference. On declaration of the CUET results, the scores will be shared with the universities for which candidate has applied. Basis on the score obtained candidate will be shortlisted for the applied course."
+            "answer": "Candidates can apply for CUET score accepting colleges through CUET UG 2026 application form. While filling the application form, candidates will be required to enter the name of the preffered universities and courses in order of preference. On declaration of the CUET results, the scores will be shared with the universities for which candidate has applied. Basis on the score obtained candidate will be shortlisted for the applied course."
           },
           {
             "question": "What if I get compartment, then will I be able to appear for the CUET and get admission in college?",
@@ -4876,7 +4876,7 @@
           "page_info": {
             "url": "https://www.shiksha.com/mba/cat-exam-results",
             "title": "CAT 2025 Result (OUT) @iimcat.ac.in; Check Overall & Sectional Cutoff Percentile, Total Marks",
-            "scraped_at": "2026-01-16 04:02:37"
+            "scraped_at": "2026-01-17 03:55:14"
           },
           "data": {
             "section_title": "CAT 2025 Toppers List",
@@ -8798,7 +8798,7 @@
           ]
         },
         {
-          "heading": "1651Institutes acceptingCAT",
+          "heading": "1652Institutes acceptingCAT",
           "key_highlights": [],
           "statistics": {},
           "highlights": [
@@ -13117,20 +13117,23 @@
                   "IMS Ghaziabad",
                   "INR 2.3 lakh to INR 2.6 lakh",
                   "INR 6 LPA to INR 7.5 LPA"
-                ],
-                [
-                  "Tata Institute of Social Sciences",
-                  "INR 1.14 lakh",
-                  "INR 24 LPA to INR 26 LPA"
                 ]
               ]
             }
+          },
+          {
+            "headings": [
+              "List of Best MBA Colleges with Low Fee in Mumbai"
+            ],
+            "text": [
+              "Check the table below to know the list of best MBA colleges in Mumbai with low fee:"
+            ],
+            "table": null
           }
         ],
         "faqs": [],
         "summary": {
           "all_fees": [
-            "1.14 lakh",
             "1.2 Lakh",
             "1.36 L",
             "1.4 Lakh",
@@ -13143,8 +13146,6 @@
             "2.32 Lakh",
             "2.5 Lakh",
             "2.6 lakh",
-            "24 L",
-            "26 L",
             "26.12 L",
             "28.2 L",
             "3.5 L",
@@ -13168,15 +13169,16 @@
             "9.15 L"
           ],
           "colleges_found": [
-            "1. Faculty of Management Studies (FMS), Delhi University",
-            "5. Department of Financial Studies, Delhi University",
             "2. Jamnalal Bajaj Institute of Management Studies (JIBMS), Mumbai",
-            "Top MBA Colleges in India With Low Fees",
-            "3. Tata Institute of Management Studies (TISS), Mumbai",
             "Other Popular MBA Colleges in India with Low Fees",
-            "List Of Best MBA Colleges with Low Fee in Delhi NCR"
+            "List Of Best MBA Colleges with Low Fee in Delhi NCR",
+            "Top MBA Colleges in India With Low Fees",
+            "1. Faculty of Management Studies (FMS), Delhi University",
+            "3. Tata Institute of Management Studies (TISS), Mumbai",
+            "List of Best MBA Colleges with Low Fee in Mumbai",
+            "5. Department of Financial Studies, Delhi University"
           ],
-          "total_colleges": 7
+          "total_colleges": 8
         }
       }
     }
